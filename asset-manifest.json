@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/sp0033212000/react-course-step01.git.io/static/js/main.a353f879.chunk.js",
-    "main.js.map": "/sp0033212000/react-course-step01.git.io/static/js/main.a353f879.chunk.js.map",
-    "runtime-main.js": "/sp0033212000/react-course-step01.git.io/static/js/runtime-main.c81cb081.js",
-    "runtime-main.js.map": "/sp0033212000/react-course-step01.git.io/static/js/runtime-main.c81cb081.js.map",
-    "static/js/2.b5c7800d.chunk.js": "/sp0033212000/react-course-step01.git.io/static/js/2.b5c7800d.chunk.js",
-    "static/js/2.b5c7800d.chunk.js.map": "/sp0033212000/react-course-step01.git.io/static/js/2.b5c7800d.chunk.js.map",
-    "index.html": "/sp0033212000/react-course-step01.git.io/index.html",
-    "precache-manifest.283314ab11a06f18bd13fb5015a9b1c3.js": "/sp0033212000/react-course-step01.git.io/precache-manifest.283314ab11a06f18bd13fb5015a9b1c3.js",
-    "service-worker.js": "/sp0033212000/react-course-step01.git.io/service-worker.js"
+    "main.js": "/001reactjsx/static/js/main.a353f879.chunk.js",
+    "main.js.map": "/001reactjsx/static/js/main.a353f879.chunk.js.map",
+    "runtime-main.js": "/001reactjsx/static/js/runtime-main.5e90b5df.js",
+    "runtime-main.js.map": "/001reactjsx/static/js/runtime-main.5e90b5df.js.map",
+    "static/js/2.b5c7800d.chunk.js": "/001reactjsx/static/js/2.b5c7800d.chunk.js",
+    "static/js/2.b5c7800d.chunk.js.map": "/001reactjsx/static/js/2.b5c7800d.chunk.js.map",
+    "index.html": "/001reactjsx/index.html",
+    "precache-manifest.ef1d80a48c209ad9b253c1310688054b.js": "/001reactjsx/precache-manifest.ef1d80a48c209ad9b253c1310688054b.js",
+    "service-worker.js": "/001reactjsx/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.c81cb081.js",
+    "static/js/runtime-main.5e90b5df.js",
     "static/js/2.b5c7800d.chunk.js",
     "static/js/main.a353f879.chunk.js"
   ]
